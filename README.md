@@ -27,35 +27,35 @@
 - percetage : 98.4%<br>
 - address : vijayawada<br>
 
-**SSC**
+### **SSC**
 
 - School Name __Balavikas English Medium School__<br>
 - Year of study: 2016<br>
 - percetage : 100.0%<br>
 - address : Rentachintala<br>
 
-**Skills**
+### **Skills**
 
 - Python - 80%<br>
 - C programming - 75%<br>
 - DBMS - 60%<br>
 - iot - 50%<br>
 
-**Goals**
+### **Goals**
 
 - I wnat to complete My Masters in `Stanford university'
 
-**Hobbies**
+### **Hobbies**
 
 - watching tv<br>
 - listening music
 - Drawing
 
-**projects**
+### **projects**
 
 - Face recognition app using artificial intelligence technology
 
-**Strengths&weakness**
+### **Strengths&weakness**
 
 - Strengths:
   - Hardwork<br>
