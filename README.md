@@ -13,7 +13,7 @@
 
 **B-tech**
 
-- college Name: __mic college__<br>
+- college Name: __DVR & DR.HS Mic college of technology__<br>
 - Branch : Computer Science Engineering<br>
 - Year of study: 2018 - 2022<br>
 - cgpa : 9.58<br>
@@ -51,10 +51,6 @@
 - listening music
 - Drawing
 
-### **projects**
-
-- Face recognition app using artificial intelligence technology
-
 ### **Strengths&weakness**
 
 - Strengths:
@@ -63,7 +59,7 @@
   - Patience<br>
   - creative thinking<br>
 - Weaknessess:<br>
-   - lazyness
+   - Negative thinking
   
   
   
